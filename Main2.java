@@ -6,7 +6,7 @@ import interfaces.ColaConPrioridadTDA;
 import implementador_TP.Conjunto;
 import interfaces.ConjuntoTDA;
 
-public class Main {
+public class Main2 {
 
 	public static void main(String[] args) {
 		int id; int cliente;										//O(1)
